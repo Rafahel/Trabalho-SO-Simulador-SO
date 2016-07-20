@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1465259575 source:c:\users\rafah\desktop\trabalhos cpp\trabalho so\src\sistema.cpp
+	"Sistema.h"
+
+1464030556 c:\users\rafah\desktop\trabalhos cpp\trabalho so\include\sistema.h
+	<cstdio>
+	<windows.h>
+	<iostream>
+	<string>
+	<cstring>
+	<time.h>
+	<vector>
+	<ctime>
+
+1466392156 source:c:\users\rafah\desktop\trabalhos cpp\trabalho so\main.cpp
+	<Sistema.h>
+
+1466525094 source:c:\users\rafah\desktop\trabalhos cpp\trabalho so simulador by rafahel mello\main.cpp
+	<Sistema.h>
+
+1464030556 c:\users\rafah\desktop\trabalhos cpp\trabalho so simulador by rafahel mello\include\sistema.h
+	<cstdio>
+	<windows.h>
+	<iostream>
+	<string>
+	<cstring>
+	<time.h>
+	<vector>
+	<ctime>
+
+1465259575 source:c:\users\rafah\desktop\trabalhos cpp\trabalho so simulador by rafahel mello\src\sistema.cpp
+	"Sistema.h"
+
